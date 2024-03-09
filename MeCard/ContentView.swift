@@ -10,7 +10,7 @@ struct ContentView: View {
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 180, height: 180, alignment: .center)
-                    .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
+                    .clipShape(Circle())
                     .overlay(
                         Circle().stroke(.white, lineWidth: 4.0)
                     )
@@ -18,13 +18,13 @@ struct ContentView: View {
                     .font(.custom("LibreBaskerville-Regular", size: 36))
                     .fontWeight(.bold)
                     .foregroundColor(.white)
-                .multilineTextAlignment(.center)
+                    .multilineTextAlignment(.center)
                 Text("Computer Science Engineer")
                     .font(.custom("LibreBaskerville-Italic", size: 16))
                     .foregroundColor(.white)
                 Divider()
-                InfoView(text: "+91 98765 43210", image: "phone.fill")
-                InfoView(text: "kanavgoyal898", image: "envelope.fill")
+                InfoView(text: "+91 82888-20418", image: "phone.fill")
+                InfoView(text: "kanavgoyal898@gmail.com", image: "envelope.fill")
             }
         }
     }
