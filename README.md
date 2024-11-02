@@ -1,4 +1,4 @@
-# MeCard App Overview
+# MeCard
 
 **MeCard** is a SwiftUI-based iOS application designed to display user profile information, resembling a digital business card. It employs modern SwiftUI components, a clean design, and allows for easy customization.
 
