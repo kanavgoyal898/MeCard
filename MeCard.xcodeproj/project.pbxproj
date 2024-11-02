@@ -18,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		41A801152CD680C0007581A1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		41BBD4C02B9BB2970081BBFF /* MeCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41BBD4C32B9BB2970081BBFF /* MeCardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeCardApp.swift; sourceTree = "<group>"; };
 		41BBD4C52B9BB2970081BBFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		41BBD4B72B9BB2970081BBFF = {
 			isa = PBXGroup;
 			children = (
+				41A801152CD680C0007581A1 /* README.md */,
 				41BBD4C22B9BB2970081BBFF /* MeCard */,
 				41BBD4C12B9BB2970081BBFF /* Products */,
 			);
